@@ -32,7 +32,7 @@ The first argument is the Alt-text for the image. The second argument is the pat
 ![Maven Build Success Part 2](images/maven_build_part2.png)
 - [5 pts] A screen capture showing a successful execution of the JAR file created from the Maven build.
 ![Maven JAR](images/maven_jar_success.png)
-- [10 pts] Links to the complete and correct [hello-world/pom.xml](hello-world/pom.xml) file.
+- [10 pts] Links to the complete and correct [hello-world/pom.xml](https://github.com/depaulcdm/hw4-jsciacco/blob/master/hello-world/pom.xml) file.
 
 # Gradle [30 pts]
 - [5 pts]A screen capture showing the version of Gradle that you installed and its install directory.
@@ -42,4 +42,4 @@ The first argument is the Alt-text for the image. The second argument is the pat
 ![Gradle Build](images/gradle_build_success.png)
 - [5 pts] A screen capture showing a successful execution of the JAR file created from the Gradle build.
 ![Gradle JAR](images/gradle_jar_success.png)
-- [10 pts] Links to the complete and correct [hello-world/build.gradle](hello-world/build.gradle) file.
+- [10 pts] Links to the complete and correct [hello-world/build.gradle](https://github.com/depaulcdm/hw4-jsciacco/blob/master/hello-world/build.gradle) file.
