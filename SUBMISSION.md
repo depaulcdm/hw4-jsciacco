@@ -25,12 +25,21 @@ The first argument is the Alt-text for the image. The second argument is the pat
 
 # Maven [30 pts]
 - [5 pts] A screen capture showing the version of Maven that you installed and its install directory.
+![Maven Version](images/maven_version.png)
+![Maven Install Dir](images/maven_install_directory.png)
 - [10 pts] A screen capture showing a successful build using the Maven script.
+![Maven Build Success Part 1](images/maven_build_part1.png)
+![Maven Build Success Part 2](images/maven_build_part2.png)
 - [5 pts] A screen capture showing a successful execution of the JAR file created from the Maven build.
+![Maven JAR](images/maven_jar_success.png)
 - [10 pts] Links to the complete and correct [hello-world/pom.xml](hello-world/pom.xml) file.
 
 # Gradle [30 pts]
 - [5 pts]A screen capture showing the version of Gradle that you installed and its install directory.
+![Gradle Install](images/gradle_install.png)
+![Gradle Directory](images/gradle_directories.png)
 - [10 pts] A screen capture showing a successful build using the Gradle script.
+![Gradle Build](images/gradle_build_success.png)
 - [5 pts] A screen capture showing a successful execution of the JAR file created from the Gradle build.
+![Gradle JAR](images/gradle_jar_success.png)
 - [10 pts] Links to the complete and correct [hello-world/build.gradle](hello-world/build.gradle) file.
